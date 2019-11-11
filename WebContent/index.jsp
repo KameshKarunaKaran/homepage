@@ -65,9 +65,9 @@
  <form>
  <h1 style="color:white">Tcs Inframind Season 3</sub></h1>
 <br>
-   <a href="http://34.70.235.55:30114/signup-0.0.1-SNAPSHOT/"class="button"><span>SIGN-UP</span></a>
+   <a href="http://34.70.235.55:30114/signup-0.0.1-SNAPSHOT/"class="button"><span>SIGN UP</span></a>
    <br><br><br><br><br>
-    <a href="http://34.70.235.55:32692/loginpage-0.0.1-SNAPSHOT/"class="button"><span>SIGN-IN</span></a>
+    <a href="http://34.70.235.55:32692/loginpage-0.0.1-SNAPSHOT/"class="button"><span>SIGN IN</span></a>
 </div>
 </form>
 </body>
