@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: homepage-server
-        image: kamesh9810/homepage:v1.1
+        image: kamesh9810/homepage:v1.latest
         ports:
         - containerPort: 8080
 ---
