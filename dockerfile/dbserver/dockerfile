@@ -1,4 +1,4 @@
-FROM ashwinc44/dbserver:latest
+FROM kamesh9810/dbserver:latest
 ENV MYSQL_ROOT_PASSWORD='12345678'
 ENV MYSQL_ROOT_HOST='%'
 EXPOSE 3306
